@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tekwebimam"
+    }
+  },
+  "defaultProject": "tekwebimam",
+  "cli": {
+    "analytics": "2e869026-684c-4aa7-be30-ebb59e702999"
+  }
 }
